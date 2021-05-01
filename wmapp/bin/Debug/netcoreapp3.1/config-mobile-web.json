@@ -1,0 +1,2242 @@
+﻿{
+  "AppSettings": {
+    "BaseURL": "http://172.28.13.151:8183/SIT",
+    "Credentials": {
+      "username": "hstimoteo",
+      "password": "Sqme@123"
+    },
+    "ControlledTest": false,
+    "OutputFileLocation": "D:\\TestAutomationOutput\\",
+    "OutputImageLocation": "D:\\TestImages\\",
+    "MoveMoney": [
+      {
+        "SourceAcct": "200043060251",
+        "DestinationAcct": "200043061053",
+        "Amount": "100",
+        "Remarks": "Controlled Test"
+      }
+    ],
+    "SendMoney": {
+      "EWB": [
+        {
+          "SourceAcct": "",
+          "DestinationAcct": "200043060502",
+          "Amount": "100",
+          "NickName": "ABC"
+        }
+      ],
+      "Local": {
+        "Pesonet": [
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "916100000424",
+            "FirstName": "Asia United",
+            "LastName": "Bank",
+            "BankID": "1",
+            "Amount": "100",
+            "NickName": "AUBKPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "0013029636",
+            "FirstName": "BANK OF THE",
+            "LastName": "PHILIPPINE ISLAND",
+            "BankID": "7",
+            "Amount": "100",
+            "NickName": "BOPIPHMMTRY "
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "000668088694",
+            "FirstName": "BDO",
+            "LastName": "UNIBANK",
+            "BankID": "10",
+            "Amount": "100",
+            "NickName": "BNORPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "001080073736",
+            "FirstName": "CEBUANA",
+            "LastName": "LHUILLIER",
+            "BankID": "64",
+            "Amount": "100",
+            "NickName": "CELRPHM1XXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "3590333624",
+            "FirstName": "CHINA BANK",
+            "LastName": "SAVINGS",
+            "BankID": "41",
+            "Amount": "100",
+            "NickName": "CHSVPHM1XXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "100302229052",
+            "FirstName": "CHINA BANKING",
+            "LastName": "CORPORATION",
+            "BankID": "11",
+            "Amount": "100",
+            "NickName": "CHBKPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "09177638499",
+            "FirstName": "Globe",
+            "LastName": "GCASH",
+            "BankID": "44",
+            "Amount": "100",
+            "NickName": "EWBCPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "636286768681",
+            "FirstName": "ING BANK",
+            "LastName": "Retail Banking",
+            "BankID": "78",
+            "Amount": "100",
+            "NickName": "INGBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "8245000147",
+            "FirstName": "LAND BANK",
+            "LastName": "PHILIPPINES",
+            "BankID": "21",
+            "Amount": "100",
+            "NickName": "TLBPPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "10010002076",
+            "FirstName": "MAYBANK",
+            "LastName": "PHILIPPINES",
+            "BankID": "22",
+            "Amount": "100",
+            "NickName": "MBBEPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "6233491199000073",
+            "FirstName": "OMNIPAY",
+            "LastName": "INC",
+            "BankID": "45",
+            "Amount": "100",
+            "NickName": "EWBCPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "188810435077",
+            "FirstName": "PHILIPPINE",
+            "LastName": "NATIONAL BANK",
+            "BankID": "29",
+            "Amount": "100",
+            "NickName": "PNBMPHMMTOD"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "111112007726",
+            "FirstName": "PHILIPPINE",
+            "LastName": "SAVINGS BANK",
+            "BankID": "42",
+            "Amount": "100",
+            "NickName": "PHSBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "0003292912100",
+            "FirstName": "PHILIPPINE",
+            "LastName": "VETERANS BANK",
+            "BankID": "31",
+            "Amount": "100",
+            "NickName": "PHVBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "8686868686",
+            "FirstName": "RIZAL COMMERCIAL",
+            "LastName": "BANKING CORP",
+            "BankID": "33",
+            "Amount": "100",
+            "NickName": "RCBCPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "005500100000533",
+            "FirstName": "STERLING",
+            "LastName": "BANK OF ASIA",
+            "BankID": "43",
+            "Amount": "100",
+            "NickName": "STLAPH22XXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "109450542671",
+            "FirstName": "UNION",
+            "LastName": "BANK",
+            "BankID": "38",
+            "Amount": "100",
+            "NickName": "UCPBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "201340001690",
+            "FirstName": "UNITED COCONUT",
+            "LastName": "PLANTERS BANK",
+            "BankID": "38",
+            "Amount": "100",
+            "NickName": "UCPBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "006200008892",
+            "FirstName": "WEALTH DEV",
+            "LastName": "BANK CORPORATION",
+            "BankID": "88",
+            "Amount": "100",
+            "NickName": "WEDVPHM1XXX"
+          }
+        ],
+        "Instapay": [
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "916100000424",
+            "FirstName": "Asia United",
+            "LastName": "Bank",
+            "BankID": "1",
+            "Amount": "100",
+            "NickName": "AUBKPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "0013029636",
+            "FirstName": "BANK OF THE",
+            "LastName": "PHILIPPINE ISLAND",
+            "BankID": "7",
+            "Amount": "100",
+            "NickName": "BOPIPHMMTRY "
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "000668088694",
+            "FirstName": "BDO",
+            "LastName": "UNIBANK",
+            "BankID": "10",
+            "Amount": "100",
+            "NickName": "BNORPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "001080073736",
+            "FirstName": "CEBUANA",
+            "LastName": "LHUILLIER",
+            "BankID": "64",
+            "Amount": "100",
+            "NickName": "CELRPHM1XXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "3590333624",
+            "FirstName": "CHINA BANK",
+            "LastName": "SAVINGS",
+            "BankID": "41",
+            "Amount": "100",
+            "NickName": "CHSVPHM1XXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "100302229052",
+            "FirstName": "CHINA BANKING",
+            "LastName": "CORPORATION",
+            "BankID": "11",
+            "Amount": "100",
+            "NickName": "CHBKPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "09177638499",
+            "FirstName": "Globe",
+            "LastName": "GCASH",
+            "BankID": "44",
+            "Amount": "100",
+            "NickName": "EWBCPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "636286768681",
+            "FirstName": "ING BANK",
+            "LastName": "Retail Banking",
+            "BankID": "78",
+            "Amount": "100",
+            "NickName": "INGBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "8245000147",
+            "FirstName": "LAND BANK",
+            "LastName": "PHILIPPINES",
+            "BankID": "21",
+            "Amount": "100",
+            "NickName": "TLBPPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "10010002076",
+            "FirstName": "MAYBANK",
+            "LastName": "PHILIPPINES",
+            "BankID": "22",
+            "Amount": "100",
+            "NickName": "MBBEPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "6233491199000073",
+            "FirstName": "OMNIPAY",
+            "LastName": "INC",
+            "BankID": "45",
+            "Amount": "100",
+            "NickName": "EWBCPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "188810435077",
+            "FirstName": "PHILIPPINE",
+            "LastName": "NATIONAL BANK",
+            "BankID": "29",
+            "Amount": "100",
+            "NickName": "PNBMPHMMTOD"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "111112007726",
+            "FirstName": "PHILIPPINE",
+            "LastName": "SAVINGS BANK",
+            "BankID": "42",
+            "Amount": "100",
+            "NickName": "PHSBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "0003292912100",
+            "FirstName": "PHILIPPINE",
+            "LastName": "VETERANS BANK",
+            "BankID": "31",
+            "Amount": "100",
+            "NickName": "PHVBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "8686868686",
+            "FirstName": "RIZAL COMMERCIAL",
+            "LastName": "BANKING CORP",
+            "BankID": "33",
+            "Amount": "100",
+            "NickName": "RCBCPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "005500100000533",
+            "FirstName": "STERLING",
+            "LastName": "BANK OF ASIA",
+            "BankID": "43",
+            "Amount": "100",
+            "NickName": "STLAPH22XXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "109450542671",
+            "FirstName": "UNION",
+            "LastName": "BANK",
+            "BankID": "38",
+            "Amount": "100",
+            "NickName": "UCPBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "201340001690",
+            "FirstName": "UNITED COCONUT",
+            "LastName": "PLANTERS BANK",
+            "BankID": "38",
+            "Amount": "100",
+            "NickName": "UCPBPHMMXXX"
+          },
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "006200008892",
+            "FirstName": "WEALTH DEV",
+            "LastName": "BANK CORPORATION",
+            "BankID": "88",
+            "Amount": "100",
+            "NickName": "WEDVPHM1XXX"
+          }
+        ],
+        "Foreign": [
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "",
+            "FullName": "",
+            "BankID": "",
+            "Amount": "",
+            "NickName": ""
+          }
+        ]
+      },
+      "OutOfTheCountry": [
+        {
+          "SourceAcct": "",
+          "DestinationAcct": "",
+          "FirstName": "",
+          "LastName": "",
+          "BankID": "",
+          "Amount": "",
+          "NickName": ""
+        }
+      ]
+    }
+  },
+  "Bills Pay": {
+    "Merchants": [
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "East West Credit Card",
+        "Amount": "5288.94",
+        "NickName": "",
+        "Parameters": [ "4009931821295002" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "SUN Cellular (Digitel Mobile)",
+        "Amount": "700.00",
+        "NickName": "",
+        "Parameters": [ "0133012478" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "MERALCO",
+        "Amount": "562.96",
+        "NickName": "",
+        "Parameters": [ "0156287132310246", "02112015" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "Globe Handyphone",
+        "Amount": "332.75",
+        "NickName": "",
+        "Parameters": [ "24687229", "9175409534" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Maynilad Water Services",
+        "Amount": "116.31",
+        "NickName": "",
+        "Parameters": [ "65036966", "102015" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "Philippine Long Distance TeleCommunications",
+        "Amount": "990.00",
+        "NickName": "",
+        "Parameters": [ "0212246476" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Bureau of Treasury - BIR",
+        "Amount": "1000.00",
+        "NickName": "",
+        "Parameters": [ "123123123123", "" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "Eastwest Bank Personal Loan",
+        "Amount": "29.00",
+        "NickName": "",
+        "Parameters": [ "8888880002393002" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "PHILHEALTHCARE, INC.",
+        "Amount": "150.00",
+        "NickName": "",
+        "Parameters": [ "PRINCIPAL PHIL TEST MEMBER", "1234567", "464 2449", "4642914", "" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "FDC UTILITIES, INC.",
+        "Amount": "400.00",
+        "NickName": "",
+        "Parameters": [ "CENE100015" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "Eagle Cement Corporation",
+        "Amount": "660.00",
+        "NickName": "",
+        "Parameters": [ "100000002" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "FDC MISAMIS POWER CORPORATION",
+        "Amount": "650.00",
+        "NickName": "",
+        "Parameters": [ "BUSE100019" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "TROO (EAST WEST AGEAS LIFE INSURANCE CORPORATION)",
+        "Amount": "8882.22",
+        "NickName": "",
+        "Parameters": [ "402000000002", "099999999998" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "TARLAC ELECTRIC COOPERATIVE I",
+        "Amount": "6500.00",
+        "NickName": "",
+        "Parameters": [ "" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FAI - SOUTH STATION TERMINAL",
+        "Amount": "33500.20",
+        "NickName": "",
+        "Parameters": [ "SSTFTK12344" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "SMART / SUN",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "0752340234", "", "" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "MAINSQUARE",
+        "Amount": "200.00",
+        "NickName": "",
+        "Parameters": [ "MSEX123456" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FILINVEST LIFEMALLS CORP.",
+        "Amount": "700.00",
+        "NickName": "",
+        "Parameters": [ "FRFL785455" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "EAST WEST INSURANCE BROKERAGE, INC.",
+        "Amount": "700.00",
+        "NickName": "",
+        "Parameters": [ "001170620000102" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "CEBU - CYBERZONE PROPERTIES INC.",
+        "Amount": "200.00",
+        "NickName": "",
+        "Parameters": [ "CCT10001" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Filinvest Land Incorporated",
+        "Amount": "11.00",
+        "NickName": "",
+        "Parameters": [ "FAILL00002", "100000004FLI", "" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Filinvest Asia Corporation",
+        "Amount": "17.00",
+        "NickName": "",
+        "Parameters": [ "FAILL00003", "", "17.00", "0.00", "0.00", "0.00", "0.00", "0.00", "0.00", "0.00", "0.00", "" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Cyberzone Properties Inc.",
+        "Amount": "22.00",
+        "NickName": "",
+        "Parameters": [ "PZA12345" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Filinvest Corporate City Association",
+        "Amount": "70.00",
+        "NickName": "",
+        "Parameters": [ "FCC00001" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "FILINVEST CYBERPARKS, INC.",
+        "Amount": "33.00",
+        "NickName": "",
+        "Parameters": [ "MUFCIB10001" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "SURIGAO DEL NORTE ELECTRIC COOPERATIVE INC.",
+        "Amount": "20.00",
+        "NickName": "",
+        "Parameters": [ "09012017", "69-01-875411", "201709" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Social Security System",
+        "Amount": "420.00",
+        "NickName": "",
+        "Parameters": [ "3390389221", "", "373639-GG", "420.00", "0.00", "0.00", "", "0.00", "0.00" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "FLI-WATER",
+        "Amount": "145.00",
+        "NickName": "",
+        "Parameters": [ "300000000001" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Social Security System (SBRLess)",
+        "Amount": "1020.00",
+        "NickName": "",
+        "Parameters": [ "50118000069917" ]
+      },*/
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "HAGDAN NG OPORTUNIDAD SA PAGUNLAD",
+        "Amount": "2.00",
+        "NickName": "",
+        "Parameters": [ "HWB-A102" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "ANDRES BONIFACIO COLLEGE",
+        "Amount": "2.00",
+        "NickName": "",
+        "Parameters": [ "488541252A", "MIDTERM", "SBME" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "RADIOWEALTH FINANCE COMPANY, INC.",
+        "Amount": "6000.00",
+        "NickName": "",
+        "Parameters": [ "402306130506030211" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "EASTWEST RURAL BANK, INC",
+        "Amount": "1000.50",
+        "NickName": "",
+        "Parameters": [ "DAVAOBAJADA", "500000017925", "4642487" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "METRO AGOO WATERWORKS INC.",
+        "Amount": "510.17",
+        "NickName": "",
+        "Parameters": [ "000021176006904222517", "05022018" ]
+      },*/
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "GP Inc � EWAL",
+        "Amount": "145.00",
+        "NickName": "",
+        "Parameters": [ "101010101010" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FILINVEST LAND INC. (FAI)",
+        "Amount": "2000.50",
+        "NickName": "",
+        "Parameters": [ "TLEFL1000000" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "MULTIPAY CORPORATION",
+        "Amount": "6252.00",
+        "NickName": "",
+        "Parameters": [ "MP12345679" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "ENTRATA URBAN CONDOMINIUM CORP",
+        "Amount": "702.00",
+        "NickName": "",
+        "Parameters": [ "EUC-L11-U02-1" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FILINVEST LIFEMALLS TAGAYTAY INC.",
+        "Amount": "144.00",
+        "NickName": "",
+        "Parameters": [ "FTNL2000079" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "CITYLAND PIONEER INC",
+        "Amount": "41.00",
+        "NickName": "",
+        "Parameters": [ "0209C" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "123 FINANCE CORPORATION",
+        "Amount": "77.00",
+        "NickName": "",
+        "Parameters": [ "AS-01170", "Morong" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "STUDIO CITY CONDOMINIUM CORPORATION",
+        "Amount": "730.00",
+        "NickName": "",
+        "Parameters": [ "SC3-L03-U06" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "ENTRATA HOTEL SERVICES, INC.",
+        "Amount": "6882.00",
+        "NickName": "",
+        "Parameters": [ "0003190" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "PANGASINAN I ELECTRIC COOPERATIVE",
+        "Amount": "305.00",
+        "NickName": "",
+        "Parameters": [ "0202155460", "2930192000", "08182018", "08312018", "08312018" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "MAGNACYCLE SALES CORP",
+        "Amount": "3321.00",
+        "NickName": "",
+        "Parameters": [ "850.1" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "FATIMA COLLEGE CABANATUAN",
+        "Amount": "200.00",
+        "NickName": "",
+        "Parameters": [ "18-10154-433", "", "", "200.00", "0.00" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "MIMOSA CITYSCAPES, INC.",
+        "Amount": "4000.00",
+        "NickName": "",
+        "Parameters": [ "S-014-I", "Andrefanio Santos", "40001957415" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "ONE OASIS CEBU CONDOMINIUM CORP.",
+        "Amount": "100.00",
+        "NickName": "",
+        "Parameters": [ "OC1-L01-U01" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "EUROTEL HOTEL MANAGEMENT INC",
+        "Amount": "690.00",
+        "NickName": "",
+        "Parameters": [ "E03-4958", "09485512563" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "MAPECON PHILIPPINES, INC.",
+        "Amount": "1575.00",
+        "NickName": "",
+        "Parameters": [ "047813" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "CELEBRITY SPORTS PLAZA, INC.",
+        "Amount": "2150.00",
+        "NickName": "",
+        "Parameters": [ "1234-4" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "DRAGONPAY CORPORATION",
+        "Amount": "400.00",
+        "NickName": "",
+        "Parameters": [ "EGK3NW54" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Cignal TV",
+        "Amount": "420.00",
+        "NickName": "",
+        "Parameters": [ "9027682242" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "EWB - ROPA",
+        "Amount": "566.00",
+        "NickName": "",
+        "Parameters": [ "ROPA-REM-2353", "T-463711" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "GOVERNOR'S PLACE CONDOMINIUM ASSOCIATION, INC.",
+        "Amount": "1500.00",
+        "NickName": "",
+        "Parameters": [ "11B" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "LOAN FEES AND CHARGES",
+        "Amount": "7950.00",
+        "NickName": "",
+        "Parameters": [ "120.00", "20.00", "310.00", "280.00", "", "90.00", "660.00", "80.00", "3,000.00", "750.00", "140.00", "540.00", "90.00", "990.00", "440.00", "50.00", "10.00", "380.00" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Media / Publishing",
+        "Biller": "The Philippine Daily Inquirer Inc.",
+        "Amount": "960.00",
+        "NickName": "",
+        "Parameters": [ "12352896" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FILINVEST CYBERZONE MIMOSA INC.",
+        "Amount": "22222.22",
+        "NickName": "",
+        "Parameters": [ "MUFCM100001" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "CLASSIC ESTATES HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "9600.00",
+        "NickName": "",
+        "Parameters": [ "CE1-B1A-L03", "PRAWN TEE MANG", "P.O. BOX 1453 BETHEL ALASKA  U.S.A.  9999  PH    ", "9075432480" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "MONTEBELLO HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "10100.00",
+        "NickName": "",
+        "Parameters": [ "MB1-B14-L10", "ABRIGO, MELITA PLAZA", "181 BATANGAS WEST ST.  AYALA ALABANG VILLAGE, MUNTINLUPA CITY 1780 Philippines", "4642443" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "ALTA VIDA HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "8100.00",
+        "NickName": "",
+        "Parameters": [ "ANTONIO, MARY ANN VILLADAREZ", "120 TOMAS MORATO ST. Kamuning Quezon City 1103 Philippines", "AV2-B15-L004", "9328723898" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "NUSA DUA TANZA FARM ESTATES HOA, INC.",
+        "Amount": "1200.00",
+        "NickName": "",
+        "Parameters": [ "BATA, REYNARD GUTIERREZ", "UNIT 1718 MANILA RESIDENCE BOCOBO 1160 JORGE BOCOBO ST. ERMITA MANILA . Philippines", "ND4-B01-L19", "9189512124" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "SOUTHPEAK HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "1300.00",
+        "NickName": "",
+        "Parameters": [ "AUSTRIA, RONALD  J.", "220 YAGUE ST. MA. DELA PAZ VILL.  MAKATI CITY  1204  PH    ", "SH2-B18-L13", "9178921859" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "PARKSPRING VILLE HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "3200.00",
+        "NickName": "",
+        "Parameters": [ "ABAD, D'GEE  EMPUERTO", "280 BORJA SUBD PARIAN  CALAMBA, LAGUNA  4027  PH    ", "PS1-B02-L028", "4642443" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "SOMERSET LANE HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "3300.00",
+        "NickName": "",
+        "Parameters": [ "LINGWA, DOLORES TIPAY", "PUROK CENTRO SAN JUAN DE MATA . TARLAC CITY 2300 Philippines", "SL1-B06-L08", "9209029291" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "PUNTA ALTEZZA HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "5200.00",
+        "NickName": "",
+        "Parameters": [ "BABAN, EMMANUEL JOSE  YSMAEL", " B9 L15 PUNTA ALTEZZA SUBD.  CIUDAD DE CALAMBA, LAGUNA  9999  PH", "PA1-B09-L015", "9285027422" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "CIIT COLLEGE OF ARTS AND TECHNOLOGY",
+        "Amount": "55000.00",
+        "NickName": "",
+        "Parameters": [ "17171859", "YLASCO, KEREN ADELLE BALDERAS" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "THE MANILA SOUTHWOODS GOLF & COUNTRY CLUB, INC.",
+        "Amount": "9999.99",
+        "NickName": "",
+        "Parameters": [ "2293" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "ST. PAUL UNIVERSITY QUEZON CITY, INC.",
+        "Amount": "6666.66",
+        "NickName": "",
+        "Parameters": [ "A2010011" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "VIA PHILIPPINES TRAVEL CORPORATION",
+        "Amount": "1112.00",
+        "NickName": "",
+        "Parameters": [ "FMNPH30P8J63G7" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "PERSONAL COLLECTION DIRECT SELLING INC.",
+        "Amount": "25001.00",
+        "NickName": "",
+        "Parameters": [ "MAKATI CITY", "09096460", "0231ATQ", "TABACO" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "THE LEVELS ANAHEIM TOWER CONDOMINIUM CORPORATION",
+        "Amount": "55100.00",
+        "NickName": "",
+        "Parameters": [ "TLA-B3-68" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "XAVIER UNIVERSITY",
+        "Amount": "4444.44",
+        "NickName": "",
+        "Parameters": [ "20173333333", "RAWN TEE MANG" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "SANREMO OASIS CONDOMINIUM CORPORATION",
+        "Amount": "5512.00",
+        "NickName": "",
+        "Parameters": [ "SA1-L01-U01" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "THE BEAUFORT CONDOMINIUM CORPORATION",
+        "Amount": "6102.22",
+        "NickName": "",
+        "Parameters": [ "TBE-L39-D" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "ONE OASIS CAGAYAN DE ORO CONDOMINIUM CORPORATION",
+        "Amount": "7101.11",
+        "NickName": "",
+        "Parameters": [ "OC1-BP33" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "AMALFI CONDOMINIUM CORPORATION",
+        "Amount": "2222.22",
+        "NickName": "",
+        "Parameters": [ "AC3-L02-U07" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "SPRING COUNTRY HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "7070.02",
+        "NickName": "",
+        "Parameters": [ "B3 L1 SPRING COUNTRY FILINVEST II  BGY SILANG B-SILANGAN Q.C.  1119  PH    ", "9275898074", "HASHI, SUZETTE  SANTIAGO", "C02-B08-L03" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "FILINVEST HOMES TAGUM HOMEOWNERS ASSOCIATION, INC.",
+        "Amount": "9090.02",
+        "NickName": "",
+        "Parameters": [ "BLOCK 6, LOT 7, VILLA MAXIMINA SUBDIVISION, PUROK DURIAN TIPAZ, MAGUGPO EAST, MAGUGPO EAST TAGUM CI", "9177222170", "CABALISA, JULIUS REY AURILLO", "FH2-B03-L34" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "ACTS ACHI & AHIA, INC.",
+        "Amount": "15200.20",
+        "NickName": "",
+        "Parameters": [ "S200001" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "ST. DOMINIC COLLEGE OF ASIA, INC.",
+        "Amount": "10000.01",
+        "NickName": "",
+        "Parameters": [ "9198858855", "2019000018" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Fatima College Valenzuela",
+        "Amount": "220.00",
+        "NickName": "",
+        "Parameters": [ "114830763", "", "", "110.00", "110.00" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "PHILAM LIFE",
+        "Amount": "900.00",
+        "NickName": "",
+        "Parameters": [ "9898990732" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FAI - SOUTH CENTRAL",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "SSTFTK12345" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "Innove Globelines",
+        "Amount": "999.00",
+        "NickName": "",
+        "Parameters": [ "869098899" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Cable TV / Internet Providers",
+        "Biller": "SkyCable (CCATV)",
+        "Amount": "1200.70",
+        "NickName": "",
+        "Parameters": [ "240500051" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Cable TV / Internet Providers",
+        "Biller": "Cable Link & Holdings Corp.",
+        "Amount": "9993.03",
+        "NickName": "",
+        "Parameters": [ "1234567890" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "FIRST LIFE FINANCIAL COMPANY",
+        "Amount": "879.20",
+        "NickName": "",
+        "Parameters": [ "1234567890", "2000251258", "01022018" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Cable TV / Internet Providers",
+        "Biller": "Innove GlobeQuest (G-Quest)",
+        "Amount": "499.94",
+        "NickName": "",
+        "Parameters": [ "837652491", "" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Loyola Plans Consolidated Inc.",
+        "Amount": "350.02",
+        "NickName": "",
+        "Parameters": [ "10399056-2", "01022018" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "Digitel Telecom Phils. Inc.",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "0200414020" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "East West Credit Card RB",
+        "Amount": "500.00",
+        "NickName": "",
+        "Parameters": [ "5191490969516013" ]
+      },*/
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Philippine Health Insurance Corporation",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "123456789", "123456789012", "Voluntary", "09/15/2016", "09/15/2016" ]
+      },*/
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Pag-Ibig Funds",
+        "Amount": "10000.00",
+        "NickName": "",
+        "Parameters": [ "123123123" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Media / Publishing",
+        "Biller": "Directories Philippines Corp",
+        "Amount": "8130.00",
+        "NickName": "",
+        "Parameters": [ "100764884" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "ISAD TEST 3",
+        "Amount": "999.00",
+        "NickName": "",
+        "Parameters": [ "1234568901" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "ISAD TEST",
+        "Amount": "1300.00",
+        "NickName": "",
+        "Parameters": [ "1234568901" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Philamlife Tower Condo. Corp.",
+        "Amount": "81091.64",
+        "NickName": "",
+        "Parameters": [ "102015", "D0000022652", "19800" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "Palms Country Club, Inc",
+        "Amount": "3892.06",
+        "NickName": "",
+        "Parameters": [ "D-0203", "10152015" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "Fatima College Antipolo",
+        "Amount": "4500.00",
+        "NickName": "",
+        "Parameters": [ "14-1144-419", "NULL", "IT", "4,500.00", "0.00" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Charitable Institutions",
+        "Biller": "Piso Para sa Pasig",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "dawe" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "EWB Calamity Assistance Fund",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "Joelhy" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Charitable Institutions",
+        "Biller": "BANTAY BATA",
+        "Amount": "0.99",
+        "NickName": "",
+        "Parameters": [ "Cmgvih" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Cable TV / Internet Providers",
+        "Biller": "Innove GlobeQuest (G-Net)",
+        "Amount": "40.00",
+        "NickName": "",
+        "Parameters": [ "553086" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Cable TV / Internet Providers",
+        "Biller": "Planet Cable Inc.",
+        "Amount": "20.00",
+        "NickName": "",
+        "Parameters": [ "0700113328" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Charitable Institutions",
+        "Biller": "Resources for the Blind",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "2342343" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Allied Bank Mastercard",
+        "Amount": "33.17",
+        "NickName": "",
+        "Parameters": [ "5522809800071849" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "BANKARD / RCBC",
+        "Amount": "20.00",
+        "NickName": "",
+        "Parameters": [ "5475810000921111" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "BDO Credit Cards",
+        "Amount": "20.00",
+        "NickName": "",
+        "Parameters": [ "377670422364328" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Citibank (MC - Visa)",
+        "Amount": "20.00",
+        "NickName": "",
+        "Parameters": [ "4034180266493024" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Government Services",
+        "Biller": "NSO Helpline Plus",
+        "Amount": "100.00",
+        "NickName": "",
+        "Parameters": [ "1018012767" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Great Life Financial",
+        "Amount": "15.00",
+        "NickName": "",
+        "Parameters": [ "00000248558" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Paramount Life",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "1400560957" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Pioneer Life",
+        "Amount": "7.00",
+        "NickName": "",
+        "Parameters": [ "000153717017" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "PNB Life Insurance",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "300458205" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Pru Life UK",
+        "Amount": "15.00",
+        "NickName": "",
+        "Parameters": [ "03393335" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Prudential Life",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "014113578" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "Chinatrust Salary Stretch",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "4215630004607591" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "Citibank Savings Loans",
+        "Amount": "7.00",
+        "NickName": "",
+        "Parameters": [ "87001800399374" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "Citifinancial",
+        "Amount": "2.00",
+        "NickName": "",
+        "Parameters": [ "54649764030920" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "HSBC Personal Loans",
+        "Amount": "4.96",
+        "NickName": "",
+        "Parameters": [ "056025422450" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Media / Publishing",
+        "Biller": "Far East Broadcasting Phils",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "1058339" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "Manila Memorial Park",
+        "Amount": "3.00",
+        "NickName": "",
+        "Parameters": [ "11334946" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "World Vision",
+        "Amount": "2.00",
+        "NickName": "",
+        "Parameters": [ "0452602" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "DMCI PROJECT DEVELOPERS, INC.",
+        "Amount": "50.00",
+        "NickName": "",
+        "Parameters": [ "12345678901", "Condo" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "IPM Realty",
+        "Amount": "20.00",
+        "NickName": "",
+        "Parameters": [ "1333300000001" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Rockwell Residential Towers",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "87770138" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "Don Bosco Technical Center - Cebu",
+        "Amount": "15.00",
+        "NickName": "",
+        "Parameters": [ "08590571" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "La Salle Greenhills",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "0302990" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "University of San Jose - Recoletos",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "8757462100000058" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Schools / Universities",
+        "Biller": "Miriam College",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "20094120208926" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "ICC - Bayantel",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "304751878" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Telephone / Pager / Cellphone",
+        "Biller": "PT&T",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "0616049508" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Easytrip",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "0000520000961221" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "First Peak Resources",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "02000002801230" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Manila Water",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "01334960" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Visayan Electric Company",
+        "Amount": "5.00",
+        "NickName": "",
+        "Parameters": [ "00102518750" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Media / Publishing",
+        "Biller": "KNOWLEDGE CHANNEL",
+        "Amount": "0.01",
+        "NickName": "",
+        "Parameters": [ "Ni�aaa" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "2301 Civic Place - FAC",
+        "Amount": "12.00",
+        "NickName": "",
+        "Parameters": [ "CP1-L01-U01" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Loan Payments",
+        "Biller": "PSBANK LOANS",
+        "Amount": "10.22",
+        "NickName": "",
+        "Parameters": [ "001823100030176" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Grepalife",
+        "Amount": "10.31",
+        "NickName": "",
+        "Parameters": [ "2200080640" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Festival Supermall - FLI",
+        "Amount": "10.48",
+        "NickName": "",
+        "Parameters": [ "FS1FS100341" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FAI - West Gate",
+        "Amount": "10.49",
+        "NickName": "",
+        "Parameters": [ "FTEX13-025" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FAI - Fastbytes",
+        "Amount": "10.51",
+        "NickName": "",
+        "Parameters": [ "FB1FS10007" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Pioneer Pointe - FAC",
+        "Amount": "10.54",
+        "NickName": "",
+        "Parameters": [ "PPO-L14-U03B" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "WP Alder - FAC",
+        "Amount": "10.55",
+        "NickName": "",
+        "Parameters": [ "WPA-L08-U01" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Westparc-Birch - FAC",
+        "Amount": "10.56",
+        "NickName": "",
+        "Parameters": [ "WPB-L02-U04B" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Westparc-Cedar - FAC",
+        "Amount": "10.57",
+        "NickName": "",
+        "Parameters": [ "WPC-L02-U09A" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Civic Prime - FAC",
+        "Amount": "10.58",
+        "NickName": "",
+        "Parameters": [ "CP2-L03-U13" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "La Vie Flats - FAC",
+        "Amount": "10.59",
+        "NickName": "",
+        "Parameters": [ "LVF-L02-U02F" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Studio Two - FAC",
+        "Amount": "10.60",
+        "NickName": "",
+        "Parameters": [ "DS2-L02-U07" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "VivantFlats - FAC",
+        "Amount": "10.61",
+        "NickName": "",
+        "Parameters": [ "VF1-L02-U11-2" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Sorrento Oasis - FAC",
+        "Amount": "10.62",
+        "NickName": "",
+        "Parameters": [ "SOA-L03-U007-1" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Bali Oasis - FAC",
+        "Amount": "10.63",
+        "NickName": "",
+        "Parameters": [ "BOD-LG01U07F" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Capri Oasis - FAC",
+        "Amount": "10.64",
+        "NickName": "",
+        "Parameters": [ "COC-L04-U03" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Maui Oasis Corp - FAC",
+        "Amount": "10.65",
+        "NickName": "",
+        "Parameters": [ "MO2-L05-U033" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "FILINVEST ALABANG, INC.",
+        "Amount": "10.72",
+        "NickName": "",
+        "Parameters": [ "ETI000718" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "One Oasis - FAC",
+        "Amount": "10.79",
+        "NickName": "",
+        "Parameters": [ "OOA-L01-U027" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "KaPartner Corporation",
+        "Amount": "10.82",
+        "NickName": "",
+        "Parameters": [ "10374072-5" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Subic Water",
+        "Amount": "10.30",
+        "NickName": "",
+        "Parameters": [ "1110381" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Metrobank (Unicard - Visa)",
+        "Amount": "1.23",
+        "NickName": "",
+        "Parameters": [ "4055988348994007" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Security Bank MC",
+        "Amount": "10.03",
+        "NickName": "",
+        "Parameters": [ "5182170001265685" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Standard Chartered",
+        "Amount": "3.21",
+        "NickName": "",
+        "Parameters": [ "4054616230293888" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "HSBC Cards",
+        "Amount": "1.21",
+        "NickName": "",
+        "Parameters": [ "5447588017637772" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Union Bank",
+        "Amount": "10.61",
+        "NickName": "",
+        "Parameters": [ "4622670162143788" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Equicom Savings",
+        "Amount": "3.12",
+        "NickName": "",
+        "Parameters": [ "4617611000021064" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Studio One - FAC",
+        "Amount": "2.42",
+        "NickName": "",
+        "Parameters": [ "DS1-L05-U21A" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Ramzen (Monthly Amort)",
+        "Amount": "10.00",
+        "NickName": "",
+        "Parameters": [ "BLK21LOT14" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "ATENEO DE DAVAO UNIVERSITY",
+        "Amount": "15000.00",
+        "NickName": "",
+        "Parameters": [ "67009", "GYVER RAMOS" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Cable TV / Internet Providers",
+        "Biller": "MOZCOM INC",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "MOSAIC", "2000031744" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "Cebu Pacific",
+        "Amount": "19592.00",
+        "NickName": "",
+        "Parameters": [ "23122000001771" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Insurance / Preneed / Pension",
+        "Biller": "Fortune Care",
+        "Amount": "1260.00",
+        "NickName": "",
+        "Parameters": [ "1030237412310907" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "Palms Pointe - FAC",
+        "Amount": "1000.34",
+        "NickName": "",
+        "Parameters": [ "PPT-B04-L05" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Credit Card",
+        "Biller": "Security Bank Diners",
+        "Amount": "49.00",
+        "NickName": "",
+        "Parameters": [ "36184900312976" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "PHILKRAFT WELLNESS CORPORATION",
+        "Amount": "3008.00",
+        "NickName": "",
+        "Parameters": [ "SC14090001" ]
+      },
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Pilipino Cable",
+        "Amount": "500.00",
+        "NickName": "",
+        "Parameters": [ "014113578" ]
+      },*/
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Utilities",
+        "Biller": "Prime Water",
+        "Amount": "245.11",
+        "NickName": "",
+        "Parameters": [ "01000560570613" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Others",
+        "Biller": "WEB.COM.PH, INC.",
+        "Amount": "1250.00",
+        "NickName": "",
+        "Parameters": [ "123456" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Real Estate",
+        "Biller": "SOLEN RESIDENCES HOA INC.",
+        "Amount": "1.00",
+        "NickName": "",
+        "Parameters": [ "Blk 6 Lot 9 Phase 1A", "9175565676", "Spouses Patrick T. Villamor and Cheryl May L. Villamor", "156" ]
+      },
+      {
+        "AccountToUse": "200043060251",
+        "Category": "Charitable Institutions",
+        "Biller": "LOJFMM - FEAST ALABANG DISTRICT, INC.",
+        "Amount": "2.00",
+        "NickName": "",
+        "Parameters": [ "9178086896", "mye.escolano@gmail.com", "Mylene Escolano" ]
+      }
+      /*{
+        "AccountToUse": "200043060251",
+        "Category": "",
+        "Biller": "Social Security System (SBRLess) RB",
+        "Amount": "1360.00",
+        "NickName": "",
+        "Parameters": [ "50218000058926" ]
+      }*/
+    ]
+  },
+  "Products": {
+    "TimeDeposit": {
+      "TestCases": [
+        {
+          "TestCaseID": "TS00033",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060529 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "cancel",
+              "SubmitButton": "Back",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00034",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239221 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Back",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00035",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239221 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Cancel",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00036",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239221 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00037",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Back",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00038",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Cancel",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00039",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00040",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Download",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00041",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Print",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00042",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Logout",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00043",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239221 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            },
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239264 - Savings Accounts",
+              "Terms": "60 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            },
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239272 - Savings Accounts",
+              "Terms": "90 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00044",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            },
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "60 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            },
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "90 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00045",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - CAD",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00046",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "100043060987 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00047",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239272 - Savings Accounts",
+              "Terms": "400 days",
+              "DepositAmount": "1000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00048",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060537 - Savings Accounts",
+              "Terms": "20 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": ""
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00049",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060537 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "9999.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Your balance is insufficient for this transaction / Deposit amount is not between min and max amount."
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00050",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239264 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "500.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Your balance is insufficient for this transaction / Deposit amount is not between min and max amount."
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00051",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - USD",
+              "SourceOfFunds": "300001239264 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "5000000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Your balance is insufficient for this transaction / Deposit amount is not between min and max amount."
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00052",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060979 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "250000000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "confirm",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Your balance is insufficient for this transaction / Deposit amount is not between min and max amount."
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00053",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "No",
+              "OTPResponse": "cancel",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Credit Card only"
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00054",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "Yes",
+              "OTPResponse": "cancel",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Credit Card only"
+            }
+          ]
+        },
+        {
+          "TestCaseID": "TS00055",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "200043060987 - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "Yes",
+              "OTPResponse": "cancel",
+              "SubmitButton": "Confirm",
+              "ExpectedMessage": "Zero interest"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

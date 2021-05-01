@@ -1,0 +1,120 @@
+﻿{
+  "AppSettings": {
+    "BaseURL": "BASE URL",
+    "Credentials": {
+      "username": "xxxxxxxxxxx",
+      "password": "xxxxxxxxxxx"
+    },
+    "CC_Credentials": {
+      "username": "USERNAME",
+      "password": "PASSWORD"
+    },
+    "OutputFileLocation": "<OUTPUT PATH>",
+    "ControlledTest": false,
+    "EWBAccount": "2xxxxxxxxxxxx"
+  },
+
+  "Accounts": {
+    "MoveMoney": [
+      {
+        "sourceaccounttype": "savings",
+        "sourceaccount": "2xxxxxxxxxxxx",
+        "account": "2xxxxxxxxxxxx",
+        "accounttype": "savings",
+        "amount": "1.00"
+      }
+    ],
+    "SendMoney": [
+      {
+        "sourceaccounttype": "savings",
+        "sourceaccount": "2xxxxxxxxxxxx",
+        "account": "2xxxxxxxxxxxx",
+        "amount": "1.00",
+        "beneficiarytype": "Individual",
+        "currency": "PHP",
+        "beneficiaryname": "Beneficiary1",
+        "beneficiaryfirstname": "",
+        "beneficiarylastname": "",
+        "bank": "",
+        "paymenttype": "registered",
+        "paymentoption": "EWB",
+        "country": ""
+      }
+    ],
+    "InstaPay": [
+      {
+        "sourceaccounttype": "savings",
+        "sourceaccount": "2xxxxxxxxxxxx",
+        "account": "91610002xxxxxxxxxxxx00424",
+        "amount": "1.00",
+        "beneficiarytype": "Individual",
+        "currency": "PHP",
+        "beneficiaryname": "",
+        "beneficiaryfirstname": "Automated",
+        "beneficiarylastname": "Testing",
+        "bank": "BANK NAME"
+      }
+    ],
+    "PesoNet": [
+      {
+        "sourceaccounttype": "savings",
+        "sourceaccount": "2xxxxxxxxxxxx",
+        "account": "xxxxxxxxxxxx",
+        "amount": "1.00",
+        "beneficiarytype": "Corporate",
+        "currency": "PHP",
+        "beneficiaryname": "xxxxxxxxxxxx - Casimir Hagenes",
+        "beneficiaryfirstname": "",
+        "beneficiarylastname": "",
+        "bank": "CHINA BANKING CORPORATION"
+      }
+    ]
+  },
+  "Products": {
+    "TimeDeposit": {
+      "TestCases": [
+        {
+          "TestCaseID": "TS00033",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "2xxxxxxxxxxxx - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "cancel",
+              "SubmitButton": "Back",
+              "ExpectedMessage": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Bills Pay": {
+    "Merchants": [
+      {
+        "AccountToUse": "2xxxxxxxxxxxx",
+        "Category": "Credit Card",
+        "Biller": "Sample Biller",
+        "Amount": "5288.94",
+        "NickName": "",
+        "Parameters": [ "4009931821295002" ]
+      }
+    ]
+  },
+  "InstaPayBanks": [
+    "<OTHER BANKS>"
+  ],
+  "PesoNetBanks": [
+    "<OTHER BANKS>"
+  ]
+}
+
+
+
+/*AUB  - 916100000424
+CBC - 101402017911
+GXI - 09177638499
+UBP - 109450542671*/
+

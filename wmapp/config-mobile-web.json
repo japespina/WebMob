@@ -1,0 +1,108 @@
+﻿{
+  "AppSettings": {
+    "BaseURL": "<base url>",
+    "Credentials": {
+      "username": "<username>",
+      "password": "password"
+    },
+    "ControlledTest": false,
+    "OutputFileLocation": "<location path>",
+    "OutputImageLocation": "<images path>",
+    "MoveMoney": [
+      {
+        "SourceAcct": "2xxxxxxxxxxx",
+        "DestinationAcct": "2xxxxxxxxxxx",
+        "Amount": "100",
+        "Remarks": "Controlled Test"
+      }
+    ],
+    "SendMoney": {
+      "EWB": [
+        {
+          "SourceAcct": "",
+          "DestinationAcct": "2xxxxxxxxxxx",
+          "Amount": "100",
+          "NickName": "ABC"
+        }
+      ],
+      "Local": {
+        "Pesonet": [
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "xxxxxxxxxxxx",
+            "FirstName": "sample bank",
+            "LastName": "Bank",
+            "BankID": "1",
+            "Amount": "100",
+            "NickName": "AUBKPHMMXXX"
+          }
+        ],
+        "Instapay": [
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "xxxxxxxxxxxx",
+            "FirstName": "sample bank",
+            "LastName": "Bank",
+            "BankID": "1",
+            "Amount": "100",
+            "NickName": "AUBKPHMMXXX"
+          }
+        ],
+        "Foreign": [
+          {
+            "SourceAcct": "",
+            "DestinationAcct": "",
+            "FullName": "",
+            "BankID": "",
+            "Amount": "",
+            "NickName": ""
+          }
+        ]
+      },
+      "OutOfTheCountry": [
+        {
+          "SourceAcct": "",
+          "DestinationAcct": "",
+          "FirstName": "",
+          "LastName": "",
+          "BankID": "",
+          "Amount": "",
+          "NickName": ""
+        }
+      ]
+    }
+  },
+  "Bills Pay": {
+    "Merchants": [
+      {
+        "AccountToUse": "2xxxxxxxxxxx",
+        "Category": "Credit Card",
+        "Biller": "<bank cc>",
+        "Amount": "5288.94",
+        "NickName": "",
+        "Parameters": [ "4009931821295002" ]
+      }
+    ]
+  },
+  "Products": {
+    "TimeDeposit": {
+      "TestCases": [
+        {
+          "TestCaseID": "TS00033",
+          "TestCaseData": [
+            {
+              "Currency": "Term Deposit - PHP",
+              "SourceOfFunds": "2xxxxxxxxxxx - Savings Accounts",
+              "Terms": "30 days",
+              "DepositAmount": "10000.00",
+              "MobileConfirm": "",
+              "OTPResponse": "cancel",
+              "SubmitButton": "Back",
+              "ExpectedMessage": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
